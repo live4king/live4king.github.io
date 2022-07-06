@@ -5,8 +5,7 @@ title: What's Jekyll?
 
 ## Example Video embedded
 
-<iframe width="480" height="360" src="https://www.youtube.com/embed?v=lbWZmt2AOEA" frameborder="0"> </iframe>
-
+<iframe width="928" height="522" src="https://www.youtube.com/embed/lbWZmt2AOEA" title="Chris Quilala - Reign (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
 [Jekyll](https://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
 
